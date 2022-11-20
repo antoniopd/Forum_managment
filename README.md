@@ -1,5 +1,6 @@
 # Forum_managment
 Proyecto en PHP y bootstrap de gestión de un portfolio
 <br>
-usuario = antonio
-password = 123
+*usuario* = antonio
+<br>
+*password* = 123
